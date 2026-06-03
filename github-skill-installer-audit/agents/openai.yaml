@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Skill Installer Audit"
+  short_description: "Verify GitHub skills before and after installation."
+  default_prompt: "Use $github-skill-installer-audit to find, verify, install, and post-check Codex skills from GitHub."

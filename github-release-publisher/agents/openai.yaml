@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Release Publisher"
+  short_description: "Prepare, sanitize, publish, and verify GitHub releases"
+  default_prompt: "Use $github-release-publisher to prepare this project, sanitize it, push it to GitHub, then verify the remote clone."
